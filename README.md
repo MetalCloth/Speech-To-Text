@@ -1,2 +1,2 @@
 # Speech-To-Text
-Speech to text using js window.recognition function
+Speech to text using js webkit speech recognition function 
